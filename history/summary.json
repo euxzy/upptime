@@ -70,7 +70,7 @@
     "timeMonth": 871,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2025-08-26": 163
+      "2025-08-26": 177
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://ceritain.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/ceritain.vercel.app.ico",
     "slug": "ceritain",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 3566,
-    "timeDay": 3566,
-    "timeWeek": 3566,
-    "timeMonth": 3566,
-    "timeYear": 3566,
+    "status": "up",
+    "uptime": "92.02%",
+    "uptimeDay": "92.02%",
+    "uptimeWeek": "92.02%",
+    "uptimeMonth": "92.02%",
+    "uptimeYear": "92.02%",
+    "time": 3721,
+    "timeDay": 3721,
+    "timeWeek": 3721,
+    "timeMonth": 3721,
+    "timeYear": 3721,
     "dailyMinutesDown": {
-      "2025-08-26": 1
+      "2025-08-26": 14
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://hooks.euxzy.com",
     "icon": "https://icons.duckduckgo.com/ip3/hooks.euxzy.com.ico",
     "slug": "custom-hooks",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 135,
-    "timeDay": 135,
-    "timeWeek": 135,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "status": "up",
+    "uptime": "91.59%",
+    "uptimeDay": "91.59%",
+    "uptimeWeek": "91.59%",
+    "uptimeMonth": "91.59%",
+    "uptimeYear": "91.59%",
+    "time": 152,
+    "timeDay": 152,
+    "timeWeek": 152,
+    "timeMonth": 152,
+    "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-08-26": 0
+      "2025-08-26": 14
     }
   }
 ]
