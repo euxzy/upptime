@@ -13,7 +13,7 @@ sites:
     url: https://artoshiru.euxzy.dev
   - name: Ceritain
     url: https://ceritain.vercel.app
-  - name: Euxzy Custom Hooks
+  - name: Custom Hooks
     url: https://hooks.euxzy.com
 
 status-website:
