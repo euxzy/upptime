@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiseline-indonesia-api",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 913,
     "timeDay": 928,
     "timeWeek": 913,
     "timeMonth": 913,
     "timeYear": 913,
-    "dailyMinutesDown": {
-      "2025-08-27": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wiseline Indonesia (API v2)",
@@ -61,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiseline-indonesia-api-v2",
     "status": "up",
-    "uptime": "9.95%",
-    "uptimeDay": "9.95%",
-    "uptimeWeek": "9.95%",
-    "uptimeMonth": "9.95%",
-    "uptimeYear": "9.95%",
+    "uptime": "10.54%",
+    "uptimeDay": "10.54%",
+    "uptimeWeek": "10.54%",
+    "uptimeMonth": "10.54%",
+    "uptimeYear": "10.54%",
     "time": 562,
     "timeDay": 562,
     "timeWeek": 562,
@@ -156,18 +154,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lazychat.euxzy.dev.ico",
     "slug": "lazy-chat",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 867,
     "timeDay": 867,
     "timeWeek": 867,
     "timeMonth": 867,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2025-08-27": 24
+      "2025-08-27": 25
     }
   }
 ]
