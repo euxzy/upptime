@@ -8,7 +8,7 @@ sites:
   - name: Wiseline Indonesia
     url: https://wiseline.id
   - name: Wiseline Indonesia (API)
-    url: $WISELINE_API
+    url: $WISELINE_API_V1
   - name: Wiseline Indonesia (API v2)
     url: $WISELINE_API_V2
   - name: Artoshiru
