@@ -9,6 +9,8 @@ sites:
     url: https://wiseline.id
   - name: Wiseline Indonesia (API)
     url: $WISELINE_API
+  - name: Wiseline Indonesia (API v2)
+    url: $WISELINE_API_V2
   - name: Artoshiru
     url: https://artoshiru.euxzy.dev
   - name: Ceritain
