@@ -40,37 +40,39 @@
     "url": "$WISELINE_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiseline-indonesia-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 917,
     "timeDay": 939,
     "timeWeek": 917,
     "timeMonth": 917,
     "timeYear": 917,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-27": 0
+    }
   },
   {
     "name": "Wiseline Indonesia (API v2)",
     "url": "$WISELINE_API_V2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiseline-indonesia-api-v2",
-    "status": "down",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
-    "time": 269,
-    "timeDay": 269,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
+    "status": "up",
+    "uptime": "0.93%",
+    "uptimeDay": "0.93%",
+    "uptimeWeek": "0.93%",
+    "uptimeMonth": "0.93%",
+    "uptimeYear": "0.93%",
+    "time": 448,
+    "timeDay": 448,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 448,
     "dailyMinutesDown": {
-      "2025-08-27": 17
+      "2025-08-27": 22
     }
   },
   {
@@ -90,7 +92,7 @@
     "timeMonth": 864,
     "timeYear": 864,
     "dailyMinutesDown": {
-      "2025-08-27": 544,
+      "2025-08-27": 549,
       "2025-08-26": 925
     }
   },
@@ -154,18 +156,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lazychat.euxzy.dev.ico",
     "slug": "lazy-chat",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 874,
     "timeDay": 874,
     "timeWeek": 874,
     "timeMonth": 874,
     "timeYear": 874,
     "dailyMinutesDown": {
-      "2025-08-27": 16
+      "2025-08-27": 22
     }
   }
 ]
