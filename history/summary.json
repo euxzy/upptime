@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiseline-indonesia-api-v2",
     "status": "up",
-    "uptime": "97.68%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "97.68%",
+    "uptime": "97.76%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "97.76%",
+    "uptimeYear": "97.76%",
     "time": 621,
     "timeDay": 621,
     "timeWeek": 621,
@@ -90,7 +90,7 @@
     "timeMonth": 864,
     "timeYear": 864,
     "dailyMinutesDown": {
-      "2025-08-28": 39,
+      "2025-08-28": 75,
       "2025-08-27": 1440,
       "2025-08-26": 925
     }
@@ -101,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ceritain.vercel.app.ico",
     "slug": "ceritain",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "98.52%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
     "time": 3543,
     "timeDay": 3334,
     "timeWeek": 3543,
     "timeMonth": 3543,
     "timeYear": 3543,
     "dailyMinutesDown": {
-      "2025-08-28": 1
+      "2025-08-28": 36
     }
   },
   {
@@ -139,18 +139,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hooks.euxzy.com.ico",
     "slug": "custom-hooks",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.53%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "98.53%",
+    "uptimeYear": "98.53%",
     "time": 142,
     "timeDay": 149,
     "timeWeek": 142,
     "timeMonth": 142,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2025-08-28": 0
+      "2025-08-28": 36
     }
   },
   {
@@ -170,7 +170,7 @@
     "timeMonth": 876,
     "timeYear": 876,
     "dailyMinutesDown": {
-      "2025-08-28": 39,
+      "2025-08-28": 75,
       "2025-08-27": 913
     }
   }
