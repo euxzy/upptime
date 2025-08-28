@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wiseline-indonesia-api-v2",
     "status": "up",
-    "uptime": "97.76%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "97.76%",
-    "uptimeMonth": "97.76%",
-    "uptimeYear": "97.76%",
+    "uptime": "97.89%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "97.89%",
+    "uptimeMonth": "97.89%",
+    "uptimeYear": "97.89%",
     "time": 621,
     "timeDay": 621,
     "timeWeek": 621,
@@ -90,7 +90,7 @@
     "timeMonth": 864,
     "timeYear": 864,
     "dailyMinutesDown": {
-      "2025-08-28": 75,
+      "2025-08-28": 136,
       "2025-08-27": 1440,
       "2025-08-26": 925
     }
@@ -100,19 +100,19 @@
     "url": "https://ceritain.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/ceritain.vercel.app.ico",
     "slug": "ceritain",
-    "status": "down",
-    "uptime": "98.52%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "98.52%",
-    "time": 3543,
-    "timeDay": 3334,
-    "timeWeek": 3543,
-    "timeMonth": 3543,
-    "timeYear": 3543,
+    "status": "up",
+    "uptime": "96.11%",
+    "uptimeDay": "93.25%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "96.11%",
+    "uptimeYear": "96.11%",
+    "time": 3578,
+    "timeDay": 3427,
+    "timeWeek": 3578,
+    "timeMonth": 3578,
+    "timeYear": 3578,
     "dailyMinutesDown": {
-      "2025-08-28": 36
+      "2025-08-28": 97
     }
   },
   {
@@ -138,19 +138,19 @@
     "url": "https://hooks.euxzy.com",
     "icon": "https://icons.duckduckgo.com/ip3/hooks.euxzy.com.ico",
     "slug": "custom-hooks",
-    "status": "down",
-    "uptime": "98.53%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "98.53%",
-    "uptimeYear": "98.53%",
-    "time": 142,
-    "timeDay": 149,
-    "timeWeek": 142,
-    "timeMonth": 142,
-    "timeYear": 142,
+    "status": "up",
+    "uptime": "96.11%",
+    "uptimeDay": "93.28%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "96.11%",
+    "uptimeYear": "96.11%",
+    "time": 135,
+    "timeDay": 137,
+    "timeWeek": 135,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {
-      "2025-08-28": 36
+      "2025-08-28": 97
     }
   },
   {
@@ -170,7 +170,7 @@
     "timeMonth": 876,
     "timeYear": 876,
     "dailyMinutesDown": {
-      "2025-08-28": 75,
+      "2025-08-28": 136,
       "2025-08-27": 913
     }
   }
