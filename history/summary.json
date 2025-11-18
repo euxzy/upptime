@@ -4,11 +4,11 @@
     "url": "https://euxzy.dev",
     "icon": "https://icons.duckduckgo.com/ip3/euxzy.dev.ico",
     "slug": "porfolio-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 892,
     "timeDay": 974,
@@ -16,6 +16,7 @@
     "timeMonth": 934,
     "timeYear": 892,
     "dailyMinutesDown": {
+      "2025-11-18": 4,
       "2025-09-27": 21
     }
   },
@@ -98,7 +99,7 @@
     "timeMonth": 900,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2025-11-18": 238,
+      "2025-11-18": 270,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -252,7 +253,7 @@
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-11-18": 238,
+      "2025-11-18": 270,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -351,7 +352,7 @@
     "timeMonth": 839,
     "timeYear": 843,
     "dailyMinutesDown": {
-      "2025-11-18": 238,
+      "2025-11-18": 270,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
