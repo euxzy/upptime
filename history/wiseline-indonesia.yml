@@ -1,7 +1,7 @@
 url: https://wiseline.id
-status: up
-code: 200
-responseTime: 27919
-lastUpdated: 2025-11-18T03:54:59.140Z
+status: down
+code: 500
+responseTime: 104
+lastUpdated: 2025-11-18T11:56:22.625Z
 startTime: 2025-08-26T04:57:44.291Z
 generator: Upptime <https://github.com/upptime/upptime>
