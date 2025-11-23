@@ -101,7 +101,7 @@
     "timeMonth": 917,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2025-11-23": 1285,
+      "2025-11-23": 1299,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -227,7 +227,7 @@
     "url": "$CERITAIN_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ceritain-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "96.60%",
     "uptimeWeek": "99.26%",
@@ -261,7 +261,7 @@
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-11-23": 1285,
+      "2025-11-23": 1299,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -365,7 +365,7 @@
     "timeMonth": 847,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2025-11-23": 1285,
+      "2025-11-23": 1300,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
