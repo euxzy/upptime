@@ -1,7 +1,7 @@
 url: $WISELINE_API_V1
-status: down
-code: 522
-responseTime: 19310
-lastUpdated: 2026-07-01T00:07:19.040Z
+status: up
+code: 200
+responseTime: 916
+lastUpdated: 2026-07-01T06:41:35.441Z
 startTime: 2025-08-26T08:35:02.357Z
 generator: Upptime <https://github.com/upptime/upptime>
